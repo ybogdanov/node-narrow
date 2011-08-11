@@ -1,7 +1,7 @@
 {
     "name": "narrow",
     "description": "Library shrinks a given callback parallel execution concurrency in a limited number of threads, receiving the bunch of data (array of tasks).",
-    "version": "v0.0.1",
+    "version": "v0.0.2",
     "url": "http://github.com/0ctave/node-narrow",
     "author": "Yuriy Bogdanov <chinsay@gmail.com>",
     "main": "lib/narrow",
