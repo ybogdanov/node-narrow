@@ -1,3 +1,6 @@
+# Deprecation Notice
+
+This project has been archived and will no longer receive maintenance or updates. I want to express my gratitude to the entire community for your usage and contributions.
 
 # Introduction
 node-narrow is a library which shrinks a given callback parallel execution in a limited number of threads, receiving the bunch of data (array of tasks).
